@@ -26,5 +26,7 @@ Here are some ideas to get you started:
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/)
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 [![Spring-Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)](https://spring.io/)
+[![Node.js](https://img.shields.io/badge/node.js-000?style=for-the-badge&logo=nodedotjs)](https://nodejs.org/en/)
+[![Angular](https://img.shields.io/badge/Angular-%23D14836?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
 <!--[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/)-->
 
