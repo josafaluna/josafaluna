@@ -1,4 +1,4 @@
-### OLá! Eu sou o Josafá Luna ⚡ 👋
+### Olá! Eu sou o Josafá Luna ⚡ 👋
 
 [![Gmail](https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:josafaluna@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/josafaluna/)
@@ -21,6 +21,8 @@
 </div>
 <br/><br/>
 
-![Josafá GitHub stats](https://github-readme-stats.vercel.app/api?username=josafaluna&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josafaluna&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <a href="https://github.com/josafaluna">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josafaluna&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josafaluna&layout=compact&langs_count=7&theme=dracula"/>
+</div>
