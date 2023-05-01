@@ -13,6 +13,8 @@
     <img align="center" alt="" src="https://img.shields.io/badge/Angular-%23D14836?style=for-the-badge&logo=angular&logoColor=white" />
     <img align="center" alt="" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img align="center" alt="" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img align="center" alt="" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+    <img align="center" alt="" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 <br/>
 <div style="display:inline_block">
